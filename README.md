@@ -1,5 +1,5 @@
 # Demo-Ant-1
-Caltech Integrate Ant with Jenkins
+Integrate Ant with Jenkins
 
 For Git you need to create the remote Repo, through Git Hub and include the readME file.
 
